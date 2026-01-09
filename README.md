@@ -1,4 +1,4 @@
-# 📊 Pipeline de Processamento Professor x Competência x Subárea
+# 📊 Pipeline de Processamento Professor x Competência x Subárea (via Google Colab)
 
 A pipeline executa a integração, validação e geração de combinações entre Professores, Competências e Subáreas, a partir de arquivos estruturados enviados em formato `.zip`.
 
